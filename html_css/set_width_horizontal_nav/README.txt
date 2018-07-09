@@ -1,0 +1,1 @@
+There are two CSS files located in the css folder.  The main.css is a starting file to follow along with in the video.  The main-complete.css file contains all the code.  The webpage is linked to the mains.css file.

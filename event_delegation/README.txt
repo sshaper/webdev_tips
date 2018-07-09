@@ -1,0 +1,1 @@
+There are two JavaScript files located in the js folder.  The main.js is a starting file to follow along with in the video.  The main-complete.js file contains all the code.  The webpage is linked to the mains.js file.
