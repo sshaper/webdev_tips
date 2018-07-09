@@ -1,0 +1,51 @@
+/* GENERAL */
+article, aside, figure, footer, header, main, menu, nav, section {
+	display: block;
+}
+*{
+	margin: 0; 
+	padding: 0;
+}
+body{
+	font: 100%/1.5 Arial;
+}
+h1, h2{
+	font-weight: normal;
+}
+li{
+	list-style: none;
+}
+
+/* WRAPPER */
+#wrapper{
+	width: 1024px; 
+	margin: 0 auto;
+}
+
+/* HEADER */
+header{
+	background: #23b6eb; 
+	height: 170px; 
+	position: relative;
+}
+.bar{
+	background: #5d5a5a; 
+	height: 30px;
+}	
+
+header h1{
+	color: #FFF; 
+	position: absolute; 
+	left: 200px; 
+	top:70px; 
+	font-size: 2.75em;
+}
+
+/* NAVIGATION */
+nav {}
+nav ul {}
+nav ul li{}
+nav ul li a{}
+nav ul li a:hover {}
+
+	
